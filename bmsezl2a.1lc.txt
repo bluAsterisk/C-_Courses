@@ -1,0 +1,93 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	new file:   HW01/HW01.xcodeproj/project.pbxproj
+#	new file:   HW02/HW02.xcodeproj/project.pbxproj
+#	new file:   HW02/HW02/main.cpp
+#	new file:   HW03/HW03.xcodeproj/project.pbxproj
+#	new file:   HW04/HW04.xcodeproj/project.pbxproj
+#	new file:   HW05/HW05.xcodeproj/project.pbxproj
+#	new file:   HW06/HW06.xcodeproj/project.pbxproj
+#	new file:   HW08/HW08/main.c
+#	new file:   HW09/HW09.xcodeproj/project.pbxproj
+#	new file:   HW10/HW10.xcodeproj/project.pbxproj
+#	new file:   HW10/HW10/cb.c
+#	new file:   HW11/HW11.xcodeproj/project.pbxproj
+#	new file:   HW11/HW11/main.c
+#	new file:   HW12/HW12.xcodeproj/project.pbxproj
+#	new file:   HW12/HW12/main.c
+#	new file:   HW13/HW13.xcodeproj/project.pbxproj
+#	new file:   HW13/HW13/main.c
+#	new file:   HW14/HW14.xcodeproj/project.pbxproj
+#	new file:   HW14/HW14/main.c
+#	new file:   Week 1.c
+#	new file:   Week 10.c
+#	new file:   Week 11.c
+#	new file:   Week 12.c
+#	new file:   Week 13.c
+#	new file:   Week 14.c
+#	new file:   Week 2.c
+#	new file:   Week 3.c
+#	new file:   Week 4.c
+#	new file:   Week 5.c
+#	new file:   Week 6.c
+#	new file:   Week 7.c
+#	new file:   Week 9.c
+#	new file:   Week 9/Week 9/main.c
+#	new file:   bindisplay.c
+#	new file:   byte2char.c
+#	new file:   char2byte.c
+#	new file:   isascii.c
+#	new file:   minmax.c
+#	new file:   rot13.c
+#	new file:   rotate.c
+#
+# Changes not staged for commit:
+#	deleted:    CSCI 223.xcodeproj/project.pbxproj
+#	deleted:    CSCI 223.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+#	deleted:    HW01/HW01.xcodeproj/project.pbxproj
+#	deleted:    HW02/HW02.xcodeproj/project.pbxproj
+#	deleted:    HW02/HW02/main.cpp
+#	deleted:    HW03/HW03.xcodeproj/project.pbxproj
+#	deleted:    HW04/HW04.xcodeproj/project.pbxproj
+#	deleted:    HW05/HW05.xcodeproj/project.pbxproj
+#	deleted:    HW06/HW06.xcodeproj/project.pbxproj
+#	deleted:    HW08/HW08/main.c
+#	deleted:    HW09/HW09.xcodeproj/project.pbxproj
+#	deleted:    HW10/HW10.xcodeproj/project.pbxproj
+#	deleted:    HW10/HW10/cb.c
+#	deleted:    HW11/HW11.xcodeproj/project.pbxproj
+#	deleted:    HW11/HW11/main.c
+#	deleted:    HW12/HW12.xcodeproj/project.pbxproj
+#	deleted:    HW12/HW12/main.c
+#	deleted:    HW13/HW13.xcodeproj/project.pbxproj
+#	deleted:    HW13/HW13/main.c
+#	deleted:    HW14/HW14.xcodeproj/project.pbxproj
+#	deleted:    HW14/HW14/main.c
+#	modified:   Week 1.c
+#	modified:   Week 10.c
+#	modified:   Week 11.c
+#	modified:   Week 12.c
+#	modified:   Week 13.c
+#	modified:   Week 14.c
+#	modified:   Week 2.c
+#	modified:   Week 3.c
+#	modified:   Week 4.c
+#	modified:   Week 5.c
+#	modified:   Week 6.c
+#	modified:   Week 7.c
+#	modified:   Week 9.c
+#	deleted:    Week 9/Week 9/main.c
+#	modified:   bindisplay.c
+#	modified:   isascii.c
+#	modified:   minmax.c
+#	modified:   rot13.c
+#	modified:   rotate.c
+#
+# Untracked files:
+#	Week 15.c
+#
+
